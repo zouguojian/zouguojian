@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, Deep Learning, Intelligent Transportation Systems, and Data analysis.
 - 🌱 I’m currently learning Graph Neural Network.
 - 💞️ I’m looking to collaborate on Smart Highway.
-- 📫 How to reach me, WeChat- GuoJianZou, or E-Mail: 2010768@tongji.edu.cn.
+- 📫 How to reach me, WeChat- GuoJianZou, or E-Mail: 2010768@tongji.edu.cn
 - # Contact me
 - * [click](https://github.com/zouguojian)
 
