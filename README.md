@@ -5,7 +5,7 @@
 - 📫 
 - # Contact me
 - [GuojianZou](https://github.com/zouguojian)
-- WeChat: GuoJianZou
+- WeChat: @GuoJianZou
 - E-Mail: 2010768@tongji.edu.cn
 <!---
 zouguojian/zouguojian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
