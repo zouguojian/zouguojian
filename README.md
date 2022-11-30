@@ -9,6 +9,9 @@
   <img src="https://github.com/zouguojian/zouguojian/blob/main/contributions.svg" />
 </p>
 
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 - # Contact me
 - [GuojianZou](https://github.com/zouguojian)
 - 📫 WeChat: @GuoJianZou
