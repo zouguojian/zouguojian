@@ -6,6 +6,7 @@
 <p align="center" dir="auto"> 
   Visitor count<br>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/25eac3b6a48df9b23361192995aa6b8600d00ac8d75030171d59974ce3beb47c/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f696e736f6c6974756d2f636f756e742e737667"><img src="https://camo.githubusercontent.com/25eac3b6a48df9b23361192995aa6b8600d00ac8d75030171d59974ce3beb47c/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f696e736f6c6974756d2f636f756e742e737667" data-canonical-src="https://profile-counter.glitch.me/{zouguojian}/count.svg" style="max-width: 100%;"></a>
+  <img align='right' src="https://profile-counter.glitch.me/你的用户名/count.svg" width="200">
   
   <img src="https://github.com/zouguojian/zouguojian/blob/main/contributions.svg" />
 </p>
