@@ -2,6 +2,7 @@
 - 👀 I’m interested in Machine Learning, Deep Learning, Intelligent Transportation Systems, Nature Language Processing, Knowledge Graph Embedding, and Data analysis
 - 🌱 I’m currently learning Graph Neural Network
 - 💞️ I’m looking to collaborate on Smart Highway
+- 📮 ResearchGate: https://www.researchgate.net/profile/Guojian-Zou
 
 <p align="center" dir="auto"> 
   Visitor count<br>
