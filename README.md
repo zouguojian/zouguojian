@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zouguojian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zouguojian" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/guojian zou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guojian zou" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/guojian-zou-5419142b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guojian-zou-5419142b9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,11 +20,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zouguojian&" alt="zouguojian" /></p>
 
-- 👋 Hi, I’m @zouguojian
 - 🧑‍🎓 Research Interests: Machine Learning, Deep Learning, Intelligent Transportation Systems (Traffic Data Analysis, Traffic Flow Forecasting, Traffic Demand Analysis,
 Travel Time Estimation, Travel Control, etc), Nature Language Processing, Knowledge Graph Embedding, and Data analysis
-- 🌱 I’m currently learning Traffic Accident Risk and Graph Neural Networks
-- 💞️ I’m looking to collaborate on Intelligent Transportation Systems
 - 🧑‍🎓 ResearchGate: https://www.researchgate.net/profile/Guojian-Zou
 - 📑 Google Scholarship: https://scholar.google.com/citations?hl=en&user=vFFaLTIAAAAJ&view_op=list_works
 
