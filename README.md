@@ -8,7 +8,7 @@ Travel Time Estimation, Travel Control, etc), Nature Language Processing, Knowle
 
 <p align="center" dir="auto"> 
   Visitor count<br>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://profile-counter.glitch.me/{zouguojian}/count.svg"><img src="https://profile-counter.glitch.me/{zouguojian}/count.svg" data-canonical-src="https://profile-counter.glitch.me/{zouguojian}/count.svg" style="max-width: 100%;"></a>
+<!--   <a target="_blank" rel="noopener noreferrer nofollow" href="https://profile-counter.glitch.me/{zouguojian}/count.svg"><img src="https://profile-counter.glitch.me/{zouguojian}/count.svg" data-canonical-src="https://profile-counter.glitch.me/{zouguojian}/count.svg" style="max-width: 100%;"></a> -->
   
   <img src="https://github.com/zouguojian/zouguojian/blob/main/contributions.svg" />
 </p>
